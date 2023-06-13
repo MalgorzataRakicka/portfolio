@@ -23,6 +23,10 @@ public class HotelSearch {
         driver.findElement(By.name("checkin")).sendKeys("17/04/2021");
         driver.findElement(By.name("checkout")).sendKeys("20/04/2021");
 
+        driver.findElement(By.id("travellersInput")).click();
+        driver.findElement(By.id("adultPlusBtn")).click();
+        driver.findElement(By.id("childPlusBtn")).click();
+
 
 
     }
