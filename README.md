@@ -6,7 +6,11 @@
 
 
 ## <a name="aboutme">:information_desk_person: About me</a>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quam purus, ultricies a orci at, convallis tristique quam. Nam placerat urna sit amet tellus gravida, vitae egestas purus egestas. Nunc placerat, nisi in faucibus ultricies, diam velit elementum massa, quis ultricies lorem nisi nec ipsum. Cras at egestas magna. Etiam nec pulvinar arcu. Integer volutpat euismod fermentum. Sed sagittis sapien quis interdum vulputate. Suspendisse ut est eu sapien tempor dictum. Vestibulum tempor lobortis elit, in tincidunt leo pellentesque sit amet. 
+<i>Hello! <br><br>
+My name is Gosia. I'm certified Software Tester with over 3 years of commercial experience in testing web apps. In the meantime I have worked on the help desk, as a Buisness Analyst and Project Manager, so I know how the process od Quality Assurance looks from differrent points of view. <br> 
+I also have some non-commercial expeience in programming - I know how to make a simple application for choosing a random title from database or to collecting data about your snoring from your mobile phone. I don't see my future in programming, but the ability to understand code has been useful to me many times during testing. <br><br>
+
+Where do I see myself in five years? I'm oriented towards further development as an Automation Tester. </i> 
 
 ## <a name="tools">:wrench: Tools</a>
 
@@ -31,12 +35,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quam purus
   
 ## <a name="techskills"> 💻 Tech skills </a>
 
-    ISTQB: Foundation Level
-    Databases: PostgeSQL
-    Languages: Java, Javascript (Test Automation)
-    Version Control Systems: Bitbucket, Git, Gitlab
-    Other tools: Confluence, Trello
-    Operating systems: Windows/Linux
+▶️ ISTQB: Foundation Level <br>
+▶️ Databases: PostgreSQL <br>
+▶️ Languages: Java <br>
+▶️ Version Control Systems: GitHub, GitLab <br> 
+▶️ Other tools: Confluence, Trello, Jira <br>
+▶️ Operating systems: Windows, Linux <br>
+
+
   
 <h2> Certificates</h2>
 <h2> Courses</h2>
