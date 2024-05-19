@@ -3,6 +3,7 @@
 * [About me](#aboutme)
 * [Tools](#tools)
 * [Tech skills](#techskills)
+* [Education and courses](#edu) 
 
 
 ## <a name="aboutme">:information_desk_person: About me</a>
@@ -42,7 +43,29 @@ Where do I see myself in five years? I'm oriented towards further development as
 ▶️ Other tools: Confluence, Trello, Jira <br>
 ▶️ Operating systems: Windows, Linux <br>
 
+## <a name="edu"> 📚 Education and courses </a> 
 
+:white_check_mark: <b>Przygotowanie do egzaminu certyfikującego ISTQB® Poziom Podstawowy 4.0 <br> </b>
+January 2024 <br>
+[Dyplom](https://drive.google.com/file/d/1jyelNoqEE0FYjKJ2wWvEy0MopHs_cKTX/view?usp=sharing) 
+
+:white_check_mark: <b>Selenium Java od podstaw </b> <br>
+June 2023 <br> 
+[Certyfikat](https://www.udemy.com/certificate/UC-76673d6c-d62a-43e8-8add-14011aa92721/) 
+
+
+:white_check_mark: <b>Wprowadzenie do testowania oprogramowania</b> <br>
+January 2023 <br>
+[Zaświadczenie](https://navoica.pl/certificates/5a84783b589a4e14895476b190d8b845) 
+
+
+:white_check_mark: <b>Biomedical engineering (Master of Science) </b> <br>
+Wrocław University of Science and Technology <br>
+<i>2013-2018</i> <br>
+
+:white_check_mark: <b> Adult education and social marketing (Master) </b> <br>
+The University of Wrocław   
+<i>2017-2019</i>
   
 <h2> Certificates</h2>
 <h2> Courses</h2>
