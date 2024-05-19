@@ -67,14 +67,12 @@ Wrocław University of Science and Technology <br>
 The University of Wrocław   
 <i>2017-2019</i>
   
-<h2> Certificates</h2>
-<h2> Courses</h2>
+<h2> Experience</h2>
+
 <h2> Examples of my work</h2>
 <h3> Bug reports</h3>
 <h3> Test reports</h3>
 <h3> Test cases</h3>
 <h3> Test scenarios</h3>
 <h3> My projects (Selenium)</h3>
-<h2> Education</h2>
-<h2> Experience</h2>
 
