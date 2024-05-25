@@ -3,7 +3,8 @@
 * [About me](#aboutme)
 * [Tools](#tools)
 * [Tech skills](#techskills)
-* [Education and courses](#edu) 
+* [Education and courses](#edu)
+* [Experience](#exp) 
 
 
 ## <a name="aboutme">:information_desk_person: About me</a>
@@ -67,29 +68,51 @@ Wrocław University of Science and Technology <br>
 The University of Wrocław   
 <i>2017-2019</i>
   
-## <a name="edu"> 👷 Experience </a> 
+## <a name="exp"> 👷 Experience </a> 
 <br>
 
 🏢 <b> Transition Technologies Science </b> <br>
 
-<i>04.2024 - ....  Project Manager </i> <br>
-- ...
+Project Manager <br>
+<i>04.2024 - currently </i> <br>
+-	Close cooperation with the sales department in preparing the batch for project pricing,
+-	Co-creation of project execution plan and schedule,
+-	Risk assessment and supervision of the project schedule,
+-	Managing communication between stakeholders at each stage of the project life cycle,
+-	Coordinate the work of the product team: analyst, developers (mainly fullstack roles), testers, UX/UI Designer,
+-	Clearly defining priorities, tracking and overseeing the progress of the work and the degree to which goals are achieved,
+-	Maintaining project documentation,
+-	Ensuring timely delivery,
+-	Launching and closing the project,
+-	Other tasks as in the previous position.
 <br>
-<i>07.2023 - .... Implementation and business analyst </i> <br>
-- ...
+
+Business Analyst/Tester/Implementation Specialist<br>
+<i>05.2021 - 04.2024 </i> <br>
+-	Ongoing cooperation with the company's clients to learn and understand the processes to be reflected in the software, as well as the needs and expectations of the clients regarding the software,
+-	Mapping the processes, needs and expectations of the client in the software - developing solution recommendations, 
+-	Preparing specifications of non-functional and functional requirements for software,
+-	Working closely with developers, testers, UX/UI Designer and developing tasks for the product team,
+-	Preparing analytical and design documentation,
+-	Active participation in testing and software implementation.
 <br>
-<i>05.2021 - .... Tester </i> <br>
-- ... <br> 
 
 
-🏢 <b> Siemacha </b> <br>
 
-<i>2020-2021 Director of the facility </i> <br>
-- Team management <br> 
-- Budget planning <br>
+🏢 <b> Stowarzyszenie Siemacha </b> <br>
 
-<i>2019-2021 Educator </i> <br> 
-- Teaching science subjects <br>
+Manager <br>
+<i>2020-2021 </i> <br>
+-	Management of the facility and its budget,
+-	Supervision and coordinate the work of other employees (psychologists, educators, etc.),
+-	Managing communication between parents, children, teachers and the municipal social welfare workers,
+-	Maintaining project documentation,
+-	Clearly defining priorities, tracking and overseeing the progress of the work and the degree to which goals are achieved. 
+
+Educator <br>
+<i>2019-2021 </i> <br> 
+-	Teaching science subjects, including - learning programming,
+-	Working with children and young people aged 6-18. 
 
 <h2> Examples of my work</h2>
 <h3> Bug reports</h3>
