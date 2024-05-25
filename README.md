@@ -67,7 +67,29 @@ Wrocław University of Science and Technology <br>
 The University of Wrocław   
 <i>2017-2019</i>
   
-<h2> Experience</h2>
+## <a name="edu"> 👷 Experience </a> 
+<br>
+
+🏢 <b> Transition Technologies Science </b> <br>
+
+<i>04.2024 - ....  Project Manager </i> <br>
+- ...
+<br>
+<i>07.2023 - .... Implementation and business analyst </i> <br>
+- ...
+<br>
+<i>05.2021 - .... Tester </i> <br>
+- ... <br> 
+
+
+🏢 <b> Siemacha </b> <br>
+
+<i>2020-2021 Director of the facility </i> <br>
+- Team management <br> 
+- Budget planning <br>
+
+<i>2019-2021 Educator </i> <br> 
+- Teaching science subjects <br>
 
 <h2> Examples of my work</h2>
 <h3> Bug reports</h3>
