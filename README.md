@@ -21,7 +21,6 @@ Where do I see myself in five years? I'm oriented towards further development as
     <th>Experience</th>
 <tr><td>TestRail</td> <td>🟢🟢🟢⚫⚫</td> </tr>
 <tr> <td>Jira </td> <td>🟢🟢🟢🟢🟢</td> </tr>
-<tr><td>TestLink  </td> <td>🟢🟢🟢⚫⚫</td></tr>
 <tr><td>Postman</td> <td> 🟢🟢🟢⚫⚫</td></tr>
 <tr> <td>Selenium (IDE, WebDriver)</td><td>🟢🟢🟢🟢⚫</td></tr>
 <tr><td>Cypress</td><td> 🟢⚫⚫⚫⚫</td></tr>
