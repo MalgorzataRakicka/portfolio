@@ -1,3 +1,6 @@
+>[!WARNING]
+>Please note that this portfolio is currently under construction. Some sections may require updates and improvements. Thank you for your understanding.
+
 # PORTFOLIO
 
 * [About me](#aboutme)
