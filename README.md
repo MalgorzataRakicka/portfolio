@@ -47,18 +47,22 @@ Where do I see myself in five years? I'm oriented towards further development as
 
 ## <a name="edu"> 📚 Education and courses </a> 
 
+:white_check_mark: <b> ISTQB® CTFL 4.0 <br> </b>
+June 2024 <br>
+[Certificate]([https://drive.google.com/file/d/1jyelNoqEE0FYjKJ2wWvEy0MopHs_cKTX/view?usp=sharing](https://drive.google.com/file/d/1_lArf6GXL9UOWppASxnNukG5dXj4npah/view?usp=drive_link)) 
+
 :white_check_mark: <b>Przygotowanie do egzaminu certyfikującego ISTQB® Poziom Podstawowy 4.0 <br> </b>
 January 2024 <br>
-[Dyplom](https://drive.google.com/file/d/1jyelNoqEE0FYjKJ2wWvEy0MopHs_cKTX/view?usp=sharing) 
+[Diploma](https://drive.google.com/file/d/1jyelNoqEE0FYjKJ2wWvEy0MopHs_cKTX/view?usp=sharing) 
 
 :white_check_mark: <b>Selenium Java od podstaw </b> <br>
 June 2023 <br> 
-[Certyfikat](https://www.udemy.com/certificate/UC-76673d6c-d62a-43e8-8add-14011aa92721/) 
+[Certificate](https://www.udemy.com/certificate/UC-76673d6c-d62a-43e8-8add-14011aa92721/) 
 
 
 :white_check_mark: <b>Wprowadzenie do testowania oprogramowania</b> <br>
 January 2023 <br>
-[Zaświadczenie](https://navoica.pl/certificates/5a84783b589a4e14895476b190d8b845) 
+[Certificate](https://navoica.pl/certificates/5a84783b589a4e14895476b190d8b845) 
 
 
 :white_check_mark: <b>Biomedical engineering (Master of Science) </b> <br>
