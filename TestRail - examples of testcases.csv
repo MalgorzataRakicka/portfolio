@@ -1,0 +1,162 @@
+"ID","Title","Estimate","Forecast","Priority","References","Section","Section Depth","Section Description","Steps","Steps","Suite","Suite ID","Type"
+"C2074","Verify Search Functionality","120s","120s","Critical","","Main page","0","","","Open the web browser on your device. In the address bar, type """"https://www.znanylekarz.pl/"""" and press Enter.
+Expected Result:
+The main page of znanylekarz.pl loads successfully.In the search bar, type the name of a specialty (e.g., """"Kardiolog"""") and press Enter. 
+
+Expected Result:
+The search results page appears, displaying a list of cardiologists avilable in your city. Check whether the search results match the entered specialty and city.
+Expected Result:
+The search results page shows a list of cardiologists, each with their respective profiles.","Master","S9","Other"
+"C2075","Verify Navigation Menu Links","120s","120s","High","","Main page","0","","","Open the web browser on your device. In the address bar, type """"https://www.znanylekarz.pl/"""" and press Enter.
+Expected Result:
+The main page of znanylekarz.pl loads successfully.Click on various links in the navigation menu (e.g., """"Oferty pracy"""" """"Bezpieczeństwo danych,"""" """"Zapytaj lekarza"""").
+Expected Result:
+Each link takes the user to the appropriate section of the website. Check that the content of each section corresponds to its title. 
+Expected Result:
+The content displayed in each section is relevant and correctly categorized.","Master","S9","Other"
+"C2076","Verify Contact Information Visibility","","","Low","","Main page","0","","","Open the web browser on your device. In the address bar, type """"https://www.znanylekarz.pl/"""" and press Enter.
+Expected Result:
+The main page of znanylekarz.pl loads successfully.Scroll down to the footer to find the contact information.
+Expected Result:
+The contact information, including address, phone number, and email, is displayed.Check that the contact information is clear and accurate.
+Expected Result:
+The contact information is correct and easy to read.","Master","S9","Other"
+"C2077","Verify Language Selection Functionality","120s","120s","Low","","Main page","0","","","Open the web browser on your device. In the address bar, type """"https://www.znanylekarz.pl/"""" and press Enter.
+Expected Result:
+The main page of znanylekarz.pl loads successfully.Locate the language selection option, typically found in the header or footer, and select a different language (e.g., English).
+Expected Result:
+The website reloads or changes to display content in the selected language.Check that the main page content is now displayed in the selected language.
+Expected Result:
+All text on the main page, including headings, descriptions, and buttons are displayed in the chosen language.","Master","S9","Other"
+"C2078","Verify Clickjacking Protection","240s","240s","Medium","","Main page","0","","","Open the web browser on your device and launch the web application security testing tool.
+Expected Result:
+Both the web browser and the security tool are ready to use.In the address bar, type """"https://www.znanylekarz.pl/"""" and press Enter.
+Expected Result:
+The main page of znanylekarz.pl loads successfully.Use the security testing tool to check if the website includes an X-Frame-Options or Content-Security-Policy header to prevent clickjacking.
+Expected Result:
+The response headers include X-Frame-Options: DENY or SAMEORIGIN, or a suitable Content-Security-Policy to prevent clickjacking.","Master","S9","Security"
+"C2079","Verify Search Functionality with Special Characters","","","Low","","Main page","0","","","Open the browser on your device. In the address bar, type """"https://www.znanylekarz.pl/"""" and press Enter.
+Expected Result:
+The main page of znanylekarz.pl loads successfully.In the search bar, enter a search query that includes special characters (e.g., """"!@#"""").
+Expected Result:
+The search bar accepts the input without any errors.Press Enter or click the search button to submit the query.
+Expected Result:
+The search results are relevant to the query, and the presence of special characters does not cause any errors or irrelevant results.","Master","S9","Other"
+"C2067","Sign up - positive test case","120s","120s","Critical","","Registration and Login Page","0","","","Open the web browser on your device. Go to the page https://www.znanylekarz.pl/ 
+Expected Result:
+The homepage of znanylekarz.pl loads successfully.Click on the """"Zarejestruj się za darmo"""" button located in the upper right corner of the homepage.
+Expected Result:
+The application opens a list of available roles. Click on the option """"jako pacjent""""
+Expected Result:
+The sign-up page appears, displaying fields for user information.Complete the first field with the email address you have access to. 
+
+Fill the second field with the same address.The address must not have been previously used on this website.
+
+
+Expected Result:
+The entered information is displayed correctly in the fields.
+Complete the last field with password. It must contain at least 8 characters, one capital letter, one lower case letter and one number. 
+Expected Result:
+The application displays information that the entered password is strong enough. Select consent to the processing of medical data. Click the """"Zarejestruj się za darmo"""" button 
+
+Expected Result:
+An account creation message is sent to the indicated e-mail addressCheck your email for a confirmation message from znanylekarz.pl and click on the confirmation link.
+Expected Result:
+The email confirmation link successfully verifies the account.After email confirmation, log in with the newly created credentials.
+Expected Result:
+The user has a new account on znanylekarz.pl and can log in with the registered credentials.","Master","S9","Other"
+"C2068","Sign in - positive test case","120s","120s","Critical","","Registration and Login Page","0","","","Open the web browser on your device. In the address bar type """"https://www.znanylekarz.pl/"""" and press Enter.
+Expected Result:
+The homepage of znanylekarz.pl loads successfully.Click on the """"Zaloguj się"""" button located in the upper right corner of the homepage.
+Expected Result:
+The login page appears, displaying fields for email and password.In the """"Email"""" field, enter your registered email address. 
+Expected Result:
+The entered email is displayed in the field.The entered email or username is displayed in the field.
+Expected Result:
+The entered password is displayed as a series of dots for security.Click the """"Zaloguj się"""" button below the password field.
+Expected Result:
+The user is logged into their account on znanylekarz.pl and has access to all features available to logged-in users.","Master","S9","Other"
+"C2069","Unsuccessful login with incorrect password","120s","120s","Critical","","Registration and Login Page","0","","","Open the preferred web browser on your device. In the address bar type """"https://www.znanylekarz.pl/"""" and press Enter. 
+Expected Result:
+The homepage of znanylekarz.pl loads successfully.Click on the """"Zaloguj się"""" button located in the upper right corner of the homepage.
+Expected Result:
+The login page appears, displaying fields for email and password.In the """"Email"""" field enter your registered email address. 
+Expected Result:
+The entered email or username is displayed in the field.In the """"Password"""" field enter an incorrect password.
+Expected Result:
+The entered password is displayed as a series of dots. Click the """"Zaloguj się"""" button below the password field.
+Expected Result:
+The system displays an error message indicating that the password is incorrect. The user remains on the login page and is not logged into their account.","Master","S9","Other"
+"C2070","Unsuccessful registration with existing email","180s","180s","High","","Registration and Login Page","0","","","Open the web browser on your device. In the address bar, type """"https://www.znanylekarz.pl/"""" and press Enter.
+Expected Result:
+In the address bar, type """"https://www.znanylekarz.pl/"""" and press Enter.Click on the """"Zarejestruj się za darmo"""" button located in the upper right corner of the homepage.
+Expected Result:
+The application opens a list of available roles.Click on the option """"jako pacjent""""
+Expected Result:
+The sign-up page appears, displaying fields for user information.Complete the first field, using an email address that is already registered. Fill the second field with the same address.
+
+Expected Result:
+The entered information is displayed correctly in the fields.Complete the last field with password. It must contain at least 8 characters, one capital letter, one lower case letter and one number.
+Expected Result:
+The application displays information that the entered password is strong enough.Select consent to the processing of medical data. Click the """"Zarejestruj się za darmo"""" button
+Expected Result:
+An error message """"Wygląda na to, że ten adres e-mail został już kiedyś przez Ciebie wykorzystany na ZnanyLekarz. Ustaw hasło do swojego konta i kontynuuj."""" is displayed. The user is not registered again.","Master","S9","Other"
+"C2071","Unsuccessful registration due to weak password","180s","180s","Medium","","Registration and Login Page","0","","","Open the web browser on your device. Go to the page https://www.znanylekarz.pl/
+Expected Result:
+The homepage of znanylekarz.pl loads successfully.Click on the """"Zarejestruj się za darmo"""" button located in the upper right corner of the homepage.
+Expected Result:
+The application opens a list of available roles.Click on the option """"jako pacjent""""
+Expected Result:
+The sign-up page appears, displaying fields for user information.
+
+Complete the first field with the email address you have access to.
+
+Fill the second field with the same address.The address must not have been previously used on this website.
+
+Expected Result:
+The entered information is displayed correctly in the fields.Complete the last field with weak password (e.g., """"12345"""")
+Expected Result:
+The entered information is displayed correctly in the fields.
+Select consent to the processing of medical data.
+Expected Result:
+The """"Zarejestruj się za darmo"""" button is inactive. Enter a stronger password that meets the security requirements. It must contain at least 8 characters, one capital letter, one lower case letter and one number.
+Expected Result:
+The application displays information that the entered password is strong enough. The """"Zarejestruj się za darmo"""" button is active. Click the """"Zarejestruj się za darmo"""" button.
+Expected Result:
+An account creation message is sent to the indicated e-mail addressCheck your email for a confirmation message from znanylekarz.pl and click on the confirmation link.
+Expected Result:
+The email confirmation link successfully verifies the account.After email confirmation, log in with the newly created credentials.
+Expected Result:
+The user has a new account on znanylekarz.pl and can log in with the registered credentials.","Master","S9","Other"
+"C2072","Successful Registration Using Google Account","180s","180s","High","","Registration and Login Page","0","","","Open the web browser on your device. Go to the page https://www.znanylekarz.pl/
+
+Expected Result:
+The homepage of znanylekarz.pl loads successfully.Click on the """"Zarejestruj się za darmo"""" button located in the upper right corner of the homepage.
+Expected Result:
+The application opens a list of available roles.Click on the option """"jako pacjent""""
+Expected Result:
+The sign-up page appears, displaying fields for user information.Click on the """"Kontynuuj z Google"""" button.
+Expected Result:
+A new window appears, prompting you to sign in to your Google account.Enter your Google account email and password, and click """"Zarejestruj się"""" If you are already logged in, select the Google account you wish to use. Review the permissions requested by znanylekarz.pl and click """"Dalej"""" to authorize the connection.
+Expected Result:
+The permissions are granted, and you are redirected back to znanylekarz.pl. The system creates a new account linked to your Google account.","Master","S9","Other"
+"C2073","Test for fixing infinite loading issue on button after navigating back to existing user message","180s","180s","High","","Registration and Login Page","0","","","Open the web browser on your device. In the address bar, type """"https://www.znanylekarz.pl/"""" and press Enter.
+Expected Result:
+In the address bar, type """"https://www.znanylekarz.pl/"""" and press Enter.Click on the """"Zarejestruj się za darmo"""" button located in the upper right corner of the homepage.
+Expected Result:
+The application opens a list of available roles.Click on the option """"jako pacjent""""
+Expected Result:
+The sign-up page appears, displaying fields for user information.
+Complete the first field, using an email address that is already registered. Fill the second field with the same address.
+Expected Result:
+Complete the first field, using an email address that is already registered. Fill the second field with the same address.Complete the last field with password. It must contain at least 8 characters, one capital letter, one lower case letter and one number.
+Expected Result:
+The application displays information that the entered password is strong enough.Select consent to the processing of medical data. Click the """"Zarejestruj się za darmo"""" button
+Expected Result:
+An error message """"Wygląda na to, że ten adres e-mail został już kiedyś przez Ciebie wykorzystany na ZnanyLekarz. Ustaw hasło do swojego konta i kontynuuj."""" is displayed. Click on the """"Ustaw hasło"""" button. 
+Expected Result:
+A page requesting the email address to which a password reset link will be sent appears. Use the browser's back button to navigate back to the existing user message.
+Expected Result:
+You are returned to the previous page displaying the existing user message.Verify """"Ustaw hasło"""" button behavior
+Expected Result:
+The """"Ustaw hasło"""" button should function correctly without getting stuck in an infinite loading loop after navigating back to the existing user message.","Master","S9","Other"
