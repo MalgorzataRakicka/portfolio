@@ -4,7 +4,9 @@
 * [Tools](#tools)
 * [Tech skills](#techskills)
 * [Education and courses](#edu)
-* [Experience](#exp) 
+* [Experience](#exp)
+* [Examples of my work](#examples)
+    * [Test cases](#TC) 
 
 
 ## <a name="aboutme">:information_desk_person: About me</a>
@@ -113,10 +115,21 @@ Educator <br>
 -	Teaching science subjects, including - learning programming,
 -	Working with children and young people aged 6-18. 
 
-<h2> Examples of my work</h2>
-<h3> Bug reports</h3>
-<h3> Test reports</h3>
-<h3> Test cases</h3>
+## <a name="examples"> ☝️ Examples of my work </a> 
+### Bug reports
+### Test reports
+
+### <a name="TC"> 🗒️ Test cases </a> 
+
+
+👉 [Examples of simple test cases exported from TestRail](https://github.com/MalgorzataRakicka/portfolio/blob/main/TestRail%20-%20examples%20of%20testcases.csv) <br> 
+
+![TR1](https://github.com/MalgorzataRakicka/portfolio/assets/32996795/abba3d98-756c-4891-b622-917aec54352f)
+![TR2](https://github.com/MalgorzataRakicka/portfolio/assets/32996795/88504041-0cbb-45fa-a829-26fda551677a)
+![TR3](https://github.com/MalgorzataRakicka/portfolio/assets/32996795/e33ccfd5-9db1-47b7-9f5f-3b9fd4a544a8)
+![TR4](https://github.com/MalgorzataRakicka/portfolio/assets/32996795/09d7c32e-8340-45d7-872c-422aa8450361)
+
+
 <h3> Test scenarios</h3>
 <h3> My projects (Selenium)</h3>
 
