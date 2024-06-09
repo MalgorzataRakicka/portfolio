@@ -49,7 +49,7 @@ Where do I see myself in five years? I'm oriented towards further development as
 
 :white_check_mark: <b> ISTQB® CTFL 4.0 <br> </b>
 June 2024 <br>
-[Certificate]([https://drive.google.com/file/d/1jyelNoqEE0FYjKJ2wWvEy0MopHs_cKTX/view?usp=sharing](https://drive.google.com/file/d/1_lArf6GXL9UOWppASxnNukG5dXj4npah/view?usp=drive_link)) 
+[Certificate](https://drive.google.com/file/d/1_lArf6GXL9UOWppASxnNukG5dXj4npah/view?usp=drive_link)
 
 :white_check_mark: <b>Przygotowanie do egzaminu certyfikującego ISTQB® Poziom Podstawowy 4.0 <br> </b>
 January 2024 <br>
