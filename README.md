@@ -9,7 +9,8 @@
 * [Education and courses](#edu)
 * [Experience](#exp)
 * [Examples of my work](#examples)
-    * [Test cases](#TC) 
+    * [Test cases](#TC)
+    * [PostgreSQL Exercises](#SQL) 
 
 
 ## <a name="aboutme">:information_desk_person: About me</a>
@@ -137,6 +138,10 @@ Educator <br>
 ![TR4](https://github.com/MalgorzataRakicka/portfolio/assets/32996795/09d7c32e-8340-45d7-872c-422aa8450361)
 
 
+### <a name="SQL"> 🗒️ PostgreSQL exercises </a>
+The exercises come from the website https://pgexercises.com/. 
+
+👉 [Examples of answers for PostgreSQL exercises](https://github.com/MalgorzataRakicka/portfolio/blob/main/TestRail%20-%20examples%20of%20testcases.csv) <br> 
 <h3> Test scenarios</h3>
 <h3> My projects (Selenium)</h3>
 
