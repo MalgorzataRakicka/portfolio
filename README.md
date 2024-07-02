@@ -141,7 +141,7 @@ Educator <br>
 ### <a name="SQL"> 🗒️ PostgreSQL exercises </a>
 The exercises come from the website https://pgexercises.com/. 
 
-👉 [Examples of answers for PostgreSQL exercises](https://github.com/MalgorzataRakicka/portfolio/blob/main/TestRail%20-%20examples%20of%20testcases.csv) <br> 
+👉 [Examples of answers for PostgreSQL exercises](https://github.com/MalgorzataRakicka/portfolio/blob/main/SQL%20exercises.sql) <br> 
 <h3> Test scenarios</h3>
 <h3> My projects (Selenium)</h3>
 
