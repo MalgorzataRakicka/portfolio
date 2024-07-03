@@ -35,3 +35,12 @@ INNER JOIN cd.members ON cd.bookings.memid = cd.members.memid)
 WHERE cd.facilities.name LIKE '%Tennis Court%'
 ORDER BY member,facility
 
+/* Ex. 3. Produce a list of the total number of slots booked per facility in the month of September 2012. Produce an output table 
+	consisting of facility id and slots, sorted by the number of slots.  */
+	
+SELECT cd.bookings.facid,SUM(slots) as Total
+FROM cd.bookings 
+LEFT JOIN cd.facilities ON cd.bookings.facid = cd.facilities.facid
+WHERE DATE(starttime) BETWEEN '2012-09-01' AND '2012-09-30'
+GROUP BY cd.bookings.facid
+ORDER BY Total
