@@ -44,3 +44,17 @@ LEFT JOIN cd.facilities ON cd.bookings.facid = cd.facilities.facid
 WHERE DATE(starttime) BETWEEN '2012-09-01' AND '2012-09-30'
 GROUP BY cd.bookings.facid
 ORDER BY Total
+
+/* Ex. 4. Let's try adding the spa to the facilities table again. This time, though, we want to automatically generate the value 
+for the next facid, rather than specifying it as a constant. Use the following values for everything else:
+
+    Name: 'Spa', membercost: 20, guestcost: 30, initialoutlay: 100000, monthlymaintenance: 800. */
+
+INSERT INTO cd.facilities (facid, name, membercost, guestcost, initialoutlay, monthlymaintenance) 
+SELECT (SELECT MAX(facid) FROM cd.facilities)+1, 'Spa', 20, 30, 100000, 800;         
+
+/* Ex. 5. Produce a count of the number of recommendations each member has made. Order by member ID. */
+SELECT recommendedby, COUNT(*) FROM cd.members 
+	WHERE recommendedby IS NOT NULL
+	GROUP BY recommendedby
+ORDER BY recommendedby
