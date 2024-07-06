@@ -58,3 +58,12 @@ SELECT recommendedby, COUNT(*) FROM cd.members
 	WHERE recommendedby IS NOT NULL
 	GROUP BY recommendedby
 ORDER BY recommendedby
+
+/* Ex. 5. Produce a list of the total number of slots booked per facility per month in the year of 2012. Produce an output table 
+consisting of facility id and slots, sorted by the id and month. */
+
+SELECT facid, EXTRACT(month FROM starttime) as month,SUM(slots) as Total
+FROM cd.bookings 
+WHERE DATE(starttime) BETWEEN '2012-01-01' AND '2012-12-31'
+GROUP BY facid,month
+ORDER BY facid,month 
