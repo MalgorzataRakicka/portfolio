@@ -59,7 +59,7 @@ SELECT recommendedby, COUNT(*) FROM cd.members
 	GROUP BY recommendedby
 ORDER BY recommendedby
 
-/* Ex. 5. Produce a list of the total number of slots booked per facility per month in the year of 2012. Produce an output table 
+/* Ex. 6. Produce a list of the total number of slots booked per facility per month in the year of 2012. Produce an output table 
 consisting of facility id and slots, sorted by the id and month. */
 
 SELECT facid, EXTRACT(month FROM starttime) as month,SUM(slots) as Total
@@ -67,3 +67,13 @@ FROM cd.bookings
 WHERE DATE(starttime) BETWEEN '2012-01-01' AND '2012-12-31'
 GROUP BY facid,month
 ORDER BY facid,month 
+
+/* Ex. 7. Produce a list of each member name, id, and their first booking after September 1st 2012. Order by member ID.  */
+
+SELECT cd.members.surname,cd.members.firstname, cd.members.memid, MIN(starttime)
+FROM cd.bookings
+INNER JOIN cd.members
+ON cd.bookings.memid = cd.members.memid
+WHERE starttime>='2012-09-01 00:00:00'
+
+/* https://pgexercises.com/questions/aggregates/nummembers.html 
