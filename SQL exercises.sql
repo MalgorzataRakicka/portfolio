@@ -76,4 +76,11 @@ INNER JOIN cd.members
 ON cd.bookings.memid = cd.members.memid
 WHERE starttime>='2012-09-01 00:00:00'
 
-/* https://pgexercises.com/questions/aggregates/nummembers.html 
+/* Ex. 8. Produce a monotonically increasing numbered list of members (including guests), ordered by their date of joining. 
+Remember that member IDs are not guaranteed to be sequential. */
+
+SELECT count(*) over (order by memid), firstname,surname
+FROM cd.members
+order by joindate
+
+/* https://pgexercises.com/questions/aggregates/facrev3.html 
