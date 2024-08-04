@@ -10,6 +10,7 @@
 * [Experience](#exp)
 * [Examples of my work](#examples)
     * [Test cases](#TC)
+    * [Bug reports](#bugs)
     * [PostgreSQL Exercises](#SQL) 
 
 
@@ -124,10 +125,23 @@ Educator <br>
 -	Working with children and young people aged 6-18. 
 
 ## <a name="examples"> ☝️ Examples of my work </a> 
-### Bug reports
+### <a name="bugs"> 🐞 Bug reports </a>
+
+![image](https://github.com/user-attachments/assets/4fbe9089-39f9-4399-aa12-85fe35f5fa22)
+
+![image](https://github.com/user-attachments/assets/48774212-3168-48bf-b8a2-00a6a2d5a07d)
+
+![image](https://github.com/user-attachments/assets/ea28748f-fd7f-4b6c-8397-2fa52b0705a5)
+
+![image](https://github.com/user-attachments/assets/7c1b88ea-05ce-4159-b9ff-264ebaf1bb24)
+
+![image](https://github.com/user-attachments/assets/0589df5f-e45d-49ce-90bf-c62cf31278f4)
+
+
 ### Test reports
 
 ### <a name="TC"> 🗒️ Test cases </a> 
+
 
 
 👉 [Examples of simple test cases exported from TestRail](https://github.com/MalgorzataRakicka/portfolio/blob/main/TestRail%20-%20examples%20of%20testcases.csv) <br> 
