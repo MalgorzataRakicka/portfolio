@@ -138,8 +138,6 @@ Educator <br>
 ![image](https://github.com/user-attachments/assets/0589df5f-e45d-49ce-90bf-c62cf31278f4)
 
 
-### Test reports
-
 ### <a name="TC"> 🗒️ Test cases </a> 
 
 
@@ -156,6 +154,6 @@ Educator <br>
 The exercises come from the website https://pgexercises.com/. 
 
 👉 [Examples of answers for PostgreSQL exercises](https://github.com/MalgorzataRakicka/portfolio/blob/main/SQL%20exercises.sql) <br> 
-<h3> Test scenarios</h3>
+
 <h3> My projects (Selenium)</h3>
 
