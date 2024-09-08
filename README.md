@@ -10,6 +10,7 @@
 * [Experience](#exp)
 * [Examples of my work](#examples)
     * [Test cases](#TC)
+    * [Postman test script examples](#postman)
     * [Bug reports](#bugs)
     * [PostgreSQL Exercises](#SQL) 
 
@@ -51,6 +52,11 @@ Where do I see myself in five years? I'm oriented towards further development as
 ▶️ Operating systems: Windows, Linux <br>
 
 ## <a name="edu"> 📚 Education and courses </a> 
+
+
+:white_check_mark: <b>Postman - testowanie REST API</b> <br>
+August 2024 <br> 
+[Certificate](https://www.udemy.com/certificate/UC-6d929f2a-043d-44fc-86bd-9f365a8908ae/) 
 
 :white_check_mark: <b> ISTQB® CTFL 4.0 <br> </b>
 June 2024 <br>
@@ -125,17 +131,6 @@ Educator <br>
 -	Working with children and young people aged 6-18. 
 
 ## <a name="examples"> ☝️ Examples of my work </a> 
-### <a name="bugs"> 🐞 Bug reports </a>
-
-![image](https://github.com/user-attachments/assets/4fbe9089-39f9-4399-aa12-85fe35f5fa22)
-
-![image](https://github.com/user-attachments/assets/48774212-3168-48bf-b8a2-00a6a2d5a07d)
-
-![image](https://github.com/user-attachments/assets/ea28748f-fd7f-4b6c-8397-2fa52b0705a5)
-
-![image](https://github.com/user-attachments/assets/7c1b88ea-05ce-4159-b9ff-264ebaf1bb24)
-
-![image](https://github.com/user-attachments/assets/0589df5f-e45d-49ce-90bf-c62cf31278f4)
 
 
 ### <a name="TC"> 🗒️ Test cases </a> 
@@ -148,6 +143,26 @@ Educator <br>
 ![TR2](https://github.com/MalgorzataRakicka/portfolio/assets/32996795/88504041-0cbb-45fa-a829-26fda551677a)
 ![TR3](https://github.com/MalgorzataRakicka/portfolio/assets/32996795/e33ccfd5-9db1-47b7-9f5f-3b9fd4a544a8)
 ![TR4](https://github.com/MalgorzataRakicka/portfolio/assets/32996795/09d7c32e-8340-45d7-872c-422aa8450361)
+
+### <a name="postman"> 🗒️ Postman test script examples </a> 
+
+![image](https://github.com/user-attachments/assets/dc1a667c-d4ba-4225-b913-6481bd4b4a1a)
+![image](https://github.com/user-attachments/assets/99745a63-44f5-4075-85c3-fe5ea0cb7891)
+![image](https://github.com/user-attachments/assets/063b12bb-c4a3-4e93-942d-dc4f66a4fbf0)
+
+
+
+### <a name="bugs"> 🐞 Bug reports </a>
+
+![image](https://github.com/user-attachments/assets/4fbe9089-39f9-4399-aa12-85fe35f5fa22)
+
+![image](https://github.com/user-attachments/assets/48774212-3168-48bf-b8a2-00a6a2d5a07d)
+
+![image](https://github.com/user-attachments/assets/ea28748f-fd7f-4b6c-8397-2fa52b0705a5)
+
+![image](https://github.com/user-attachments/assets/7c1b88ea-05ce-4159-b9ff-264ebaf1bb24)
+
+![image](https://github.com/user-attachments/assets/0589df5f-e45d-49ce-90bf-c62cf31278f4)
 
 
 ### <a name="SQL"> 🗒️ PostgreSQL exercises </a>
