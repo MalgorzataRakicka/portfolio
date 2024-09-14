@@ -30,8 +30,7 @@ Where do I see myself in five years? I'm oriented towards further development as
 <tr><td>TestRail</td> <td>🟢🟢🟢⚫⚫</td> </tr>
 <tr> <td>Jira </td> <td>🟢🟢🟢🟢🟢</td> </tr>
 <tr><td>Postman</td> <td> 🟢🟢🟢⚫⚫</td></tr>
-<tr> <td>Selenium (IDE, WebDriver)</td><td>🟢🟢🟢🟢⚫</td></tr>
-<tr><td>Cypress</td><td> 🟢⚫⚫⚫⚫</td></tr>
+<tr> <td>Selenium (IDE, WebDriver)</td><td>🟢🟢⚫⚫⚫</td></tr>
 <tr><td>Apache JMeter </td><td>           🟢⚫⚫⚫⚫</td></tr>
 <tr><td>SOAP UI</td><td>🟢⚫⚫⚫⚫</td></tr>
 <tr><td>DBeaver </td><td>🟢🟢🟢⚫⚫</td></tr>
