@@ -52,6 +52,9 @@ Where do I see myself in five years? I'm oriented towards further development as
 
 ## <a name="edu"> 📚 Education and courses </a> 
 
+:white_check_mark: <b>ICH E6 (R2) Good Clinical Practice ver. 1.0 </b> <br>
+January 2025 <br> 
+[Certificate](https://szkolenia.abm.gov.pl/certificates/cer/?quiz=3171&cert-nonce=f73013d1e6) 
 
 :white_check_mark: <b>Postman - testowanie REST API</b> <br>
 August 2024 <br> 
