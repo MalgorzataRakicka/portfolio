@@ -30,9 +30,8 @@ Where do I see myself in five years? I'm oriented towards further development as
 <tr><td>TestRail</td> <td>🟢🟢🟢⚫⚫</td> </tr>
 <tr> <td>Jira </td> <td>🟢🟢🟢🟢🟢</td> </tr>
 <tr><td>Postman</td> <td> 🟢🟢🟢⚫⚫</td></tr>
+<tr><td>Draw.io </td><td>🟢🟢🟢⚫⚫</td></tr>
 <tr> <td>Selenium (IDE, WebDriver)</td><td>🟢🟢⚫⚫⚫</td></tr>
-<tr><td>Apache JMeter </td><td>           🟢⚫⚫⚫⚫</td></tr>
-<tr><td>SOAP UI</td><td>🟢⚫⚫⚫⚫</td></tr>
 <tr><td>DBeaver </td><td>🟢🟢🟢⚫⚫</td></tr>
 <tr><td>IntelliJ </td><td>🟢🟢🟢⚫⚫</td></tr>
 <tr><td>Jenkins </td><td>🟢⚫⚫⚫⚫</td></tr>
@@ -49,6 +48,7 @@ Where do I see myself in five years? I'm oriented towards further development as
 ▶️ Version Control Systems: GitHub, GitLab <br> 
 ▶️ Other tools: Confluence, Trello, Jira <br>
 ▶️ Operating systems: Windows, Linux <br>
+▶️ UML Diagrams
 
 ## <a name="edu"> 📚 Education and courses </a> 
 
